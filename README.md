@@ -1,7 +1,6 @@
 # 💫 About Me:
 Radhe Radhe Everyone, <br>
-I'm Bhanu Jaiswal..!! <br>
-I am a software developer focused on Java-based backend technologies.<br> 
+I'm Bhanu Jaiswal..!! <br>I am a software developer focused on Java-based backend technologies.<br> 
 
 
 ## 🌐 Socials:
@@ -26,6 +25,7 @@ I am a software developer focused on Java-based backend technologies.<br>
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=transparent&color=E34F26&stroke=E34F26" alt="HTML5" />     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=transparent&color=1572B6&stroke=1572B6" alt="CSS3" />    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=transparent&color=F05032&stroke=F05032" alt="Git" />    
 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent&color=181717&stroke=181717" alt="GitHub" />    
+
 
 
 # 📊 GitHub Stats:
