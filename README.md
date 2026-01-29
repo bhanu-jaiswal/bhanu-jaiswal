@@ -40,15 +40,12 @@ I'm Bhanu Jaiswal..!! <br>I am a software developer focused on Java-based backen
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanu-jaiswal&theme=dracula&bg_color=282a36&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PratikAjbe01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img width="12" />
   <img src="https://img.shields.io/github/followers/bhanu-jaiswal?label=Followers&style=social" alt="GitHub Followers" />
 </div>
-
-
 
 
 ---
