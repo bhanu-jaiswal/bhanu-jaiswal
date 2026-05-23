@@ -1,54 +1,109 @@
-# 💫 About Me:
-Radhe Radhe Everyone, <br>
-I'm Bhanu Jaiswal..!! <br>I am a software developer focused on Java-based backend technologies.<br> 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-jaiswal )  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanujaiswal@gmail.com)
-  <a href="https://www.geeksforgeeks.org/profile/bhanujaiceqd/" target="_blank">  
-<img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="geeksforgeeks logo" />
-  </a>
-  
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)       ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)      
-
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-    ![MYSQL](https://img.shields.io/badge/mysql-%234ea94b.svg?style=flat&logo=mysql&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-
-   
-   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)     ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
- 
-   ![postman](https://img.shields.io/badge/postman-%23323330.svg?style=flat&logo=postman&logoColor=%23F7DF1E) 
-   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=transparent&color=E34F26&stroke=E34F26" alt="HTML5" />     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=transparent&color=1572B6&stroke=1572B6" alt="CSS3" />    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=transparent&color=F05032&stroke=F05032" alt="Git" />    
-
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent&color=181717&stroke=181717" alt="GitHub" />    
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhanu-jaiswal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhanu-jaiswal&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-jaiswal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 📈 Contribution Activity
+<h1 align="center">Hi 👋, I'm Bhanu Jaiswal</h1>
+<h3 align="center">Java Backend Developer 🚀 | Spring Boot Enthusiast ☕</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanu-jaiswal&theme=dracula&bg_color=282a36&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PratikAjbe01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img width="12" />
-  <img src="https://img.shields.io/github/followers/bhanu-jaiswal?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhanu-jaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+✨ Radhe Radhe Everyone 🙏  
+💻 Passionate Software Developer focused on Java Backend Technologies  
+🌱 Currently learning Microservices & System Design  
+🚀 Love building scalable backend applications  
+⚡ Fun fact: I debug faster after chai ☕  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/bhanu-jaiswal" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhanujaiswal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/bhanujaiceqd/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanu-jaiswal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu-jaiswal&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-jaiswal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Bhanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanu-jaiswal&theme=tokyo-night&hide_border=true)](https://github.com/bhanu-jaiswal)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bhanu-jaiswal&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 🔥 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=bhanu-jaiswal&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+### 🤝 Thanks for visiting my profile ❤️
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+
+</div>
