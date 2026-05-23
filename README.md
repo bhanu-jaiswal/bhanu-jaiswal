@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-✨ Radhe Radhe Everyone 🙏  
+✨ Radhe Radhe 🙏  
 💻 Passionate Software Developer focused on Java Backend Technologies  
 🌱 Currently learning Microservices & System Design  
 🚀 Love building scalable backend applications  
