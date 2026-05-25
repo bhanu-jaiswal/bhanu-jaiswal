@@ -10,7 +10,7 @@
 # 💫 About Me
 
 ✨ Radhe Radhe 🙏  
-💻 Passionate Software Developer focused on Java Backend Technologies  
+💻 Passionate Software Developer focused on Java Backend Technologies.  
 🌱 Currently learning Microservices & System Design  
 🚀 Love building scalable backend applications  
 ⚡ Fun fact: I debug faster after chai ☕  
