@@ -45,20 +45,7 @@ public class BhanuJaiswal {
 * 🚀 Love turning ideas into working software
 * 🔧 Enjoy debugging and solving challenging problems
 
----
 
-## 🚀 What I'm Currently Working On
-
-| 🎯 Area         | 📌 Focus                                  |
-| --------------- | ----------------------------------------- |
-| ☕ Java          | OOP, Collections, Streams, Multithreading |
-| 🌱 Spring Boot  | REST APIs, Security, JPA, Hibernate       |
-| 🧩 Architecture | Microservices & System Design             |
-| 🗄️ Databases   | MySQL & MongoDB                           |
-| 🧠 DSA          | Problem Solving & Algorithms              |
-| 🛠️ Dev Tools   | Git, GitHub, Postman                      |
-
----
 
 ## 🌐 Connect With Me
 
@@ -181,9 +168,6 @@ public class BhanuJaiswal {
 
 </div>
 
-> **If the snake image doesn't appear**, you need to generate the snake SVG through a GitHub Action. See the setup section below.
-
----
 
 # 💡 Developer Philosophy
 
@@ -201,33 +185,6 @@ public class BhanuJaiswal {
 
  
 
-# 🧠 Currently Learning
-
-```text
-Java
- ├── Advanced OOP
- ├── Collections
- ├── Streams
- └── Multithreading
-
-Spring Boot
- ├── REST APIs
- ├── Spring Security
- ├── Spring Data JPA
- └── Hibernate
-
-Architecture
- ├── Microservices
- ├── System Design
- ├── API Design
- └── Scalable Applications
-
-Database
- ├── MySQL
- └── MongoDB
-```
-
----
 
 # ☕ Random Dev Quote
 
